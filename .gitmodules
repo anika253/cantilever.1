@@ -1,0 +1,6 @@
+[submodule "ecommerce/node-react-ecommerce"]
+	path = ecommerce/node-react-ecommerce
+	url = https://github.com/basir/node-react-ecommerce
+[submodule "News WEBSITE/News-Website"]
+	path = News WEBSITE/News-Website
+	url = https://github.com/sunil9813/News-Website.git
